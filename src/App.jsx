@@ -24,7 +24,7 @@ function App() {
                 </div>
 
                 <div class="flex gap-2 items-center ">
-                    <a href="#" class="text-2xl font-bold">Contact</a>
+                    <a href="#" class="hidden md:block text-2xl font-bold">Contact</a>
                 </div>
            
                 
