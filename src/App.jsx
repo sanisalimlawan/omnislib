@@ -18,13 +18,13 @@ function App() {
                 
                 <div class="hidden md:flex space-x-6 gap-2 items-center">
                     <a href="#" class="hover:text-gray-300 text-2xl">Home</a>
-                    <a href="#" class="hover:text-gray-300">About</a>
-                    <a href="#" class="hover:text-gray-300">Services</a>
-                    <a href="#" class="hover:text-gray-300">Contact</a>
+                    <a href="#" class="hover:text-gray-300 text-2xl">About</a>
+                    <a href="#" class="hover:text-gray-300 text-2xl">Services</a>
+                    
                 </div>
 
-                <div class="  ">
-                    <a href="#" class="text-2xl font-bold">Careriar</a>
+                <div class="flex gap-2 items-center ">
+                    <a href="#" class="text-2xl font-bold">Contact</a>
                 </div>
            
                 
