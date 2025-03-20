@@ -14,7 +14,7 @@ export default function About () {
                 <div className="text-center">
                 <FontAwesomeIcon icon={faBullseye} className="text-center  font-bold text-blue-900 w-[60px] h-[60px]"/>
                 </div>
-                    <h1 className="text-center font-bold text-4xl m">Our Mission</h1>
+                    <h1 className="text-center font-bold text-4xl m-3">Our Mission</h1>
                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni, eligendi? Facilis porro, aliquam quis explicabo suscipit quae esse. Rem, animi!</p>
                 </div>
                 <div className="md:basis-1/2 bg-white p-6 rounded">

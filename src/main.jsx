@@ -5,6 +5,7 @@ import App from './App.jsx'
 import Hero from './hero.jsx'
 import Services from './services.jsx'
 import About from './About.jsx'
+import Contact from './Contact.jsx'
 
 
 createRoot(document.getElementById('root')).render(
@@ -13,5 +14,6 @@ createRoot(document.getElementById('root')).render(
     <Hero/>
     <Services />
     <About />
+    <Contact />
   </StrictMode>,
 )
