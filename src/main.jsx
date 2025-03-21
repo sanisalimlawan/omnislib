@@ -6,6 +6,7 @@ import Hero from './hero.jsx'
 import Services from './services.jsx'
 import About from './About.jsx'
 import Contact from './Contact.jsx'
+import Footer from './footer.jsx'
 
 
 createRoot(document.getElementById('root')).render(
@@ -15,5 +16,6 @@ createRoot(document.getElementById('root')).render(
     <Services />
     <About />
     <Contact />
+    <Footer />
   </StrictMode>,
 )
