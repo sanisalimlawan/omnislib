@@ -21,7 +21,7 @@ export default function Contact(){
             <FontAwesomeIcon icon={faPhone} className="text-white text-xl-6 w-[60px] h-[60px]" />
            <div>
            <h1 className="m-3 ml-0 text-white text-xl font-bold">OUR CONTACT NUMBER</h1>
-           <p className="m-2 ml-0 text-white">07014306854</p>
+           <p className="m-2 ml-0 text-white">+2348021020313</p>
            </div>
         </div>
         <div className="p-4 md:basis-1/3 md:flex gap-5 w-full text-center md:text-start rounded bg-blue-900">
@@ -33,9 +33,9 @@ export default function Contact(){
         </div>
     </div>
     <div className="basis-1/2 p-5">
-    <h2 className="text- mb-5 text-2xl font-bold">Interested in discussing?</h2>
+    <h2 className="text- mb-5 text-2xl md:text-xl font-bold">Interested in discussing?</h2>
     
-        <div className="m-auto p-6  flex-col min-h-[400px] gap-8">
+        <div className="m-auto p-3  flex-col min-h-[400px] gap-8">
         <form className="flex flex-col space-y-4 bg-white p-6 rounded-lg shadow-md w-full max-w-md">
   {/* Name Field */}
   <div className="flex flex-col">
