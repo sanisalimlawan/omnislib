@@ -12,7 +12,7 @@ function App() {
                 
                 <div class="flex-shrink-0 flex items-center">
                     <a href="#" class="text-2xl font-bold">
-                      <img src=".\OML.ico" className='w-[50px]' alt="" />
+                      <img src="./lon-logo.jpg" className='w-[150px] rounded-lg' alt="" />
                     </a>
                 </div>
                 

@@ -32,7 +32,7 @@ export default function Contact(){
            </div>
         </div>
     </div>
-    <div className="basis-1/2 p-5">
+    <div className="basis-1/2 p-2">
     <h2 className="text- mb-5 text-2xl md:text-xl font-bold">Interested in discussing?</h2>
     
         <div className="m-auto p-3  flex-col min-h-[400px] gap-8">
