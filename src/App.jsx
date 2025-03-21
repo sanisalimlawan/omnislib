@@ -17,14 +17,14 @@ function App() {
                 </div>
                 
                 <div class="hidden md:flex space-x-6 gap-2 items-center">
-                    <a href="#" class="hover:text-gray-300 text-2xl">Home</a>
-                    <a href="#" class="hover:text-gray-300 text-2xl">About</a>
-                    <a href="#" class="hover:text-gray-300 text-2xl">Services</a>
+                    <a href="/" class="hover:text-gray-300 text-xl">Home</a>
+                    <a href="#About" class="hover:text-gray-300 text-xl">About</a>
+                    <a href="#Services" class="hover:text-gray-300 text-xl">Services</a>
                     
                 </div>
 
                 <div class="flex gap-2 items-center ">
-                    <a href="#" class="hidden md:block text-2xl font-bold">Contact</a>
+                    <a href="#Contact" class="hidden md:block text-2xl font-bold">Contact</a>
                 </div>
            
                 

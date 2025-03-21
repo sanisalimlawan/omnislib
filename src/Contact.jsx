@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 export default function Contact(){
     return(
-        <section className="p-7">
+        <section id="Contact" className="p-7">
             <h1 className="text-center text-4xl font-bold">Contact <span className="text-blue-900">Us</span></h1>
           
 

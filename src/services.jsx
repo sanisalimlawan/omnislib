@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 export default function Services(){
     return(
-        <section className="p-7   text-center">
+        <section id="Services" className="p-7   text-center">
             <h1 className="text-black md:text-6xl text-4xl font-bold">What We Do</h1>
             <p className="text-2xl mt-3">Next-Generation Telecom for Everyone</p>
             <div className="flex flex-col md:flex-row justify-center gap-5 mt-9  ">

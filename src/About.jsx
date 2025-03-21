@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 export default function About () {
     return( 
-        <section className="p-7 bg-blue-900">
+        <section id="About" className="p-7 bg-blue-900">
             <h1 className="text-center text-5xl font-bold text-white">About Us</h1>
             <div className="text-center max-w-[560px] m-auto ">
                 <h3 className="text-3xl m-3 ml-0 text-white">Why We Exit</h3>
@@ -15,7 +15,10 @@ export default function About () {
                 <FontAwesomeIcon icon={faBullseye} className="text-center  font-bold text-blue-900 w-[60px] h-[60px]"/>
                 </div>
                     <h1 className="text-center font-bold text-4xl m-3">Our Mission</h1>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni, eligendi? Facilis porro, aliquam quis explicabo suscipit quae esse. Rem, animi!</p>
+                    <p>we believe technology should make
+ life easier, better, and more connected. Our mission is to turn bold ideas into real solutions, whether
+ it's bridging communication gaps, making AI more useful, or building secure and accessible digital tools.
+ We’re here to create technology that empowers people, helps businesses grow, and makes communities stronger</p>
                 </div>
                 <div className="md:basis-1/2 bg-white p-6 rounded">
                 
@@ -23,7 +26,8 @@ export default function About () {
                 <FontAwesomeIcon icon={faEyeLowVision} className=" text-center font-bold text-blue-900 w-[60px] h-[60px]"/>
                 </div>
                     <h1 className="text-center font-bold text-4xl m-3">Our Vission</h1>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni, eligendi? Facilis porro, aliquam quis explicabo suscipit quae esse. Rem, animi!</p>
+                    <p>We see a future where technology feels natural, helpful, and inclusive, where anyone, anywhere, can access the tools they need to thrive. At Omnis Lab, we’re not just building systems and software; we’re shaping a world where innovation brings people together, 
+                    unlocks opportunities, and makes life better for everyone.</p>
                 </div>
             </div>
         </section>
