@@ -21,14 +21,14 @@ export default function Contact(){
             <FontAwesomeIcon icon={faPhone} className="text-white text-xl-6 w-[60px] h-[60px]" />
            <div>
            <h1 className="m-3 ml-0 text-white text-xl font-bold">OUR CONTACT NUMBER</h1>
-           <p className="m-2 ml-0 text-white">+2348021020313</p>
+           <p className="m-2 ml-0 text-white"><a href="tel:+2348021020313">+2348021020313</a></p>
            </div>
         </div>
         <div className="p-4 md:basis-1/3 md:flex gap-5 w-full text-center md:text-start rounded bg-blue-900">
             <FontAwesomeIcon icon={faEnvelope} className="text-white text-xl-6 w-[60px] h-[60px]" />
            <div>
            <h1 className="m-3 ml-0 text-white text-xl font-bold">OUR CONTACT E-MAIL</h1>
-           <p className="m-2 ml-0 text-white">info@satimatic.com</p>
+           <p className="m-2 ml-0 text-white"><a href="mailto:info@satimatic.com">info@satimatic.com</a></p>
            </div>
         </div>
     </div>
